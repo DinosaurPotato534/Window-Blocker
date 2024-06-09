@@ -25,7 +25,7 @@ Window Blocker is a quick and dirty Python script made by request which allows u
 2. Run the script:
 
    ```
-   python window_blocker.py
+   python blocker.py
    ```
 
 3. Use the GUI to add Chrome tabs/apps or specific windows to the block list.
